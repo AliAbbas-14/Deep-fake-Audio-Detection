@@ -1,0 +1,9 @@
+feature,value
+mean_mfcc1,-123.45
+mean_mfcc2,45.67
+mean_mfcc3,-12.34
+peak_frequency,320.5
+zcr,0.045
+spectral_centroid,2100.23
+prediction,real
+confidence,0.82

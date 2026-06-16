@@ -1,0 +1,14 @@
+.devcontainer/
+__pycache__/
+*.pyc
+.streamlit/
+pages/
+streamlit_app.py
+utils/
+models.py
+model_loader.py
+defect_preprocessing.py
+audio_features.py
+requirements-streamlit.txt
+runtime.txt
+config.toml

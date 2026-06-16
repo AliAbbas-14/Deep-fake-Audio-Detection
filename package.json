@@ -1,0 +1,8 @@
+{
+  "name": "voiceguard-ai",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "build": "python scripts/generate_models.py"
+  }
+}
